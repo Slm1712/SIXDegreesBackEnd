@@ -1,0 +1,85 @@
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.deps.json
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csprojAssemblyReference.cache
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csproj.CoreCompileInputs.cache
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfoInputs.cache
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfo.cs
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.deps.json
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csprojAssemblyReference.cache
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csproj.CoreCompileInputs.cache
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfoInputs.cache
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfo.cs
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.deps.json
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csproj.CoreCompileInputs.cache
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfoInputs.cache
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfo.cs
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.deps.json
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csprojAssemblyReference.cache
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csproj.CoreCompileInputs.cache
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfoInputs.cache
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfo.cs
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.deps.json
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csproj.CoreCompileInputs.cache
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfoInputs.cache
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfo.cs
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.deps.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csproj.CoreCompileInputs.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfoInputs.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfo.cs
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.deps.json
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csprojAssemblyReference.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csproj.CoreCompileInputs.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfoInputs.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfo.cs
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.deps.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.deps.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.deps.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Security\bin\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Security\obj\Debug\netcoreapp2.2\com.Servibarras.Security.csprojAssemblyReference.cache

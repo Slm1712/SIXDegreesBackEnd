@@ -1,0 +1,86 @@
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.deps.json
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csprojAssemblyReference.cache
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csproj.CoreCompileInputs.cache
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfoInputs.cache
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfo.cs
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\ServiBarras\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.deps.json
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csprojAssemblyReference.cache
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csproj.CoreCompileInputs.cache
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfoInputs.cache
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfo.cs
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.deps.json
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csproj.CoreCompileInputs.cache
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfoInputs.cache
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfo.cs
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.deps.json
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csprojAssemblyReference.cache
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csproj.CoreCompileInputs.cache
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfoInputs.cache
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfo.cs
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.deps.json
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csproj.CoreCompileInputs.cache
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfoInputs.cache
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfo.cs
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csprojAssemblyReference.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.deps.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csproj.CoreCompileInputs.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfoInputs.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfo.cs
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.deps.json
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csprojAssemblyReference.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csproj.CoreCompileInputs.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfoInputs.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfo.cs
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.deps.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.deps.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.deps.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Integration\bin\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.Servibarras.Integration\obj\Debug\netcoreapp2.2\com.Servibarras.Integration.csprojAssemblyReference.cache

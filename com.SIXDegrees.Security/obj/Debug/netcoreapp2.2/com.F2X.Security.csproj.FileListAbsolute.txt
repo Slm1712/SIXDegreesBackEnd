@@ -1,0 +1,8 @@
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Security\bin\Debug\netcoreapp2.2\com.F2X.Security.deps.json
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Security\bin\Debug\netcoreapp2.2\com.F2X.Security.dll
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Security\bin\Debug\netcoreapp2.2\com.F2X.Security.pdb
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Security\obj\Debug\netcoreapp2.2\com.F2X.Security.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Security\obj\Debug\netcoreapp2.2\com.F2X.Security.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Security\obj\Debug\netcoreapp2.2\com.F2X.Security.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Security\obj\Debug\netcoreapp2.2\com.F2X.Security.dll
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Security\obj\Debug\netcoreapp2.2\com.F2X.Security.pdb

@@ -1,0 +1,15 @@
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\bin\Debug\netcoreapp2.2\com.F2X.Infrastructure.deps.json
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\bin\Debug\netcoreapp2.2\com.F2X.Infrastructure.runtimeconfig.json
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\bin\Debug\netcoreapp2.2\com.F2X.Infrastructure.runtimeconfig.dev.json
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\bin\Debug\netcoreapp2.2\com.F2X.Infrastructure.dll
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\bin\Debug\netcoreapp2.2\com.F2X.Infrastructure.pdb
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\bin\Debug\netcoreapp2.2\com.F2X.Shared.dll
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\bin\Debug\netcoreapp2.2\com.F2X.Shared.pdb
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\obj\Debug\netcoreapp2.2\com.F2X.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\obj\Debug\netcoreapp2.2\com.F2X.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\obj\Debug\netcoreapp2.2\com.F2X.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\obj\Debug\netcoreapp2.2\com.F2X.Infrastructure.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\obj\Debug\netcoreapp2.2\com.F2X.Infrastructure.csproj.CopyComplete
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\obj\Debug\netcoreapp2.2\com.F2X.Infrastructure.dll
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\obj\Debug\netcoreapp2.2\com.F2X.Infrastructure.pdb
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Infrastructure\obj\Debug\netcoreapp2.2\com.F2X.Infrastructure.genruntimeconfig.cache

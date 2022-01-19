@@ -1,0 +1,8 @@
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Integration\bin\Debug\netcoreapp2.2\com.F2X.Integration.deps.json
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Integration\bin\Debug\netcoreapp2.2\com.F2X.Integration.dll
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Integration\bin\Debug\netcoreapp2.2\com.F2X.Integration.pdb
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Integration\obj\Debug\netcoreapp2.2\com.F2X.Integration.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Integration\obj\Debug\netcoreapp2.2\com.F2X.Integration.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Integration\obj\Debug\netcoreapp2.2\com.F2X.Integration.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Integration\obj\Debug\netcoreapp2.2\com.F2X.Integration.dll
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Integration\obj\Debug\netcoreapp2.2\com.F2X.Integration.pdb

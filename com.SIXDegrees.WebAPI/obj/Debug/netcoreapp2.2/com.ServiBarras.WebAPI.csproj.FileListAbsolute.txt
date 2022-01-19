@@ -1,0 +1,222 @@
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.deps.json
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.json
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.dev.json
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csprojAssemblyReference.cache
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CoreCompileInputs.cache
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cache
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cs
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfoInputs.cache
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfo.cs
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorTargetAssemblyInfo.cache
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.dll
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.dll
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.pdb
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.pdb
+C:\ServiBarras\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CopyComplete
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.deps.json
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.json
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.dev.json
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.dll
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.dll
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.pdb
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.pdb
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csprojAssemblyReference.cache
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CoreCompileInputs.cache
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cache
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cs
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfoInputs.cache
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfo.cs
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CopyComplete
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\Repositorio Git\Solucion Web Api Services\TecnoCEDI\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.deps.json
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.json
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.dev.json
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.dll
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.dll
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.pdb
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.pdb
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csprojAssemblyReference.cache
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CoreCompileInputs.cache
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cache
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cs
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfoInputs.cache
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfo.cs
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorTargetAssemblyInfo.cache
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CopyComplete
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+D:\Proyecto Servibarras\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.deps.json
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.json
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.dev.json
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.dll
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.dll
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.pdb
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.pdb
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csprojAssemblyReference.cache
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CoreCompileInputs.cache
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cache
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cs
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfoInputs.cache
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfo.cs
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorTargetAssemblyInfo.cache
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CopyComplete
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+D:\Proyecto\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csprojAssemblyReference.cache
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CoreCompileInputs.cache
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cache
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cs
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfoInputs.cache
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfo.cs
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.deps.json
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.json
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.dev.json
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.dll
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.dll
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.pdb
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.pdb
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorTargetAssemblyInfo.cache
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CopyComplete
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+D:\Gestisol-Servibarras\ing3915-proyecto-modelo-fabrica-agil\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.deps.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.dev.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.pdb
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.pdb
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csprojAssemblyReference.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CoreCompileInputs.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cs
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfoInputs.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfo.cs
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CopyComplete
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.genruntimeconfig.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.deps.json
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.json
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.dev.json
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.pdb
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.pdb
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csprojAssemblyReference.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CoreCompileInputs.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cs
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfoInputs.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfo.cs
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorTargetAssemblyInfo.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CopyComplete
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.deps.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.dev.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csprojAssemblyReference.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CopyComplete
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.genruntimeconfig.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csprojAssemblyReference.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.deps.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.dev.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CopyComplete
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\Pedidos Services API Controller\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.genruntimeconfig.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.deps.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.dev.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.Servibarras.ApplicationCore.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Shared.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\bin\Debug\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csprojAssemblyReference.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CopyComplete
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.WebAPI\obj\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Shared\bin\Debug\netcoreapp2.2\com.F2X.Shared.deps.json
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Shared\bin\Debug\netcoreapp2.2\com.F2X.Shared.dll
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Shared\bin\Debug\netcoreapp2.2\com.F2X.Shared.pdb
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Shared\obj\Debug\netcoreapp2.2\com.F2X.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Shared\obj\Debug\netcoreapp2.2\com.F2X.Shared.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Shared\obj\Debug\netcoreapp2.2\com.F2X.Shared.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Shared\obj\Debug\netcoreapp2.2\com.F2X.Shared.dll
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Shared\obj\Debug\netcoreapp2.2\com.F2X.Shared.pdb
+C:\Users\Gestisol1\Desktop\Personal\Projectos\F2X\F2XBackend\com.F2X.Shared\obj\Debug\netcoreapp2.2\com.F2X.Shared.csprojAssemblyReference.cache

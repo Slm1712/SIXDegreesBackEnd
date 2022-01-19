@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <UserSecretsId>145bb230-6641-4d2d-a0a0-df3ce18103ba</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\Contenedor\**" />
+    <Compile Remove="Controllers\Perifericos\**" />
+    <Compile Remove="Controllers\Presentacion\**" />
+    <Compile Remove="Controllers\Shared\**" />
+    <Content Remove="Controllers\Contenedor\**" />
+    <Content Remove="Controllers\Perifericos\**" />
+    <Content Remove="Controllers\Presentacion\**" />
+    <Content Remove="Controllers\Shared\**" />
+    <EmbeddedResource Remove="Controllers\Contenedor\**" />
+    <EmbeddedResource Remove="Controllers\Perifericos\**" />
+    <EmbeddedResource Remove="Controllers\Presentacion\**" />
+    <EmbeddedResource Remove="Controllers\Shared\**" />
+    <None Remove="Controllers\Contenedor\**" />
+    <None Remove="Controllers\Perifericos\**" />
+    <None Remove="Controllers\Presentacion\**" />
+    <None Remove="Controllers\Shared\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR.Core" Version="1.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\com.SIXDegrees.ApplicationCore\com.SIXDegrees.ApplicationCore.csproj" />
+    <ProjectReference Include="..\com.SIXDegrees.Shared\com.SIXDegrees.Shared.csproj" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
+</Project>

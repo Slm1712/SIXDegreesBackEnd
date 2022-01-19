@@ -1,0 +1,57 @@
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.deps.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.runtimeconfig.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.runtimeconfig.dev.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Shared.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Shared.pdb
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csprojAssemblyReference.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.AssemblyInfoInputs.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.AssemblyInfo.cs
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csproj.CopyComplete
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.deps.json
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.runtimeconfig.json
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.runtimeconfig.dev.json
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Shared.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Shared.pdb
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csprojAssemblyReference.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csproj.CoreCompileInputs.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.AssemblyInfoInputs.cache
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.AssemblyInfo.cs
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csproj.CopyComplete
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\TecnoCedi API Backend\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.deps.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.runtimeconfig.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.runtimeconfig.dev.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Shared.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Shared.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csproj.CopyComplete
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\backend\TecnoCEDI Services API Controller\TecnoCEDI Services API Controller\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.genruntimeconfig.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.deps.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.runtimeconfig.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.runtimeconfig.dev.json
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Shared.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\bin\Release\netcoreapp2.2\com.ServiBarras.Shared.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.AssemblyInfo.cs
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csproj.CopyComplete
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.pdb
+C:\Users\Gestisol1\Desktop\Gestisol\proyectos\QuantiWeb\QuantiBackend\com.ServiBarras.Infrastructure\obj\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.genruntimeconfig.cache

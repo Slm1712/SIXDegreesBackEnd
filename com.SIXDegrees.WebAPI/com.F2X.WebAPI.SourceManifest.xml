@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.SIXDegrees.WebAPI\obj\Debug\netcoreapp2.2\PubTmp\Out\" />
+  <dbfullsql path="C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\com.SIXDegrees.WebAPI\obj\Debug\netcoreapp2.2\PubTmp\EFSQLScripts\com.SIXDegrees.Infrastructure.Models.SIXDegress_bdContext.sql" />
+</sitemanifest>

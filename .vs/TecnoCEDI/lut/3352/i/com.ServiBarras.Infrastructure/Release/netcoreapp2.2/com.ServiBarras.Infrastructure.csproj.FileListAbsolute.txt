@@ -1,0 +1,10 @@
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\11564\b\com.ServiBarras.Infrastructure\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.deps.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\11564\b\com.ServiBarras.Infrastructure\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.runtimeconfig.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\11564\b\com.ServiBarras.Infrastructure\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.runtimeconfig.dev.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\11564\b\com.ServiBarras.Infrastructure\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\11564\i\com.ServiBarras.Infrastructure\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csprojAssemblyReference.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\11564\i\com.ServiBarras.Infrastructure\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\11564\i\com.ServiBarras.Infrastructure\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.AssemblyInfoInputs.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\11564\i\com.ServiBarras.Infrastructure\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.AssemblyInfo.cs
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\11564\i\com.ServiBarras.Infrastructure\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.csproj.CopyComplete
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\11564\i\com.ServiBarras.Infrastructure\Release\netcoreapp2.2\com.ServiBarras.Infrastructure.dll

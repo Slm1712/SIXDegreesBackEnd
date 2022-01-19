@@ -1,0 +1,356 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.WebAPI\\com.ServiBarras.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.Servibarras.ApplicationCore\\com.Servibarras.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.Servibarras.ApplicationCore\\com.Servibarras.ApplicationCore.csproj",
+        "projectName": "com.Servibarras.ApplicationCore",
+        "projectPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.Servibarras.ApplicationCore\\com.Servibarras.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\JDcardenas\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.Servibarras.ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JDcardenas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Infrastructure\\com.ServiBarras.Infrastructure.csproj": {
+                "projectPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Infrastructure\\com.ServiBarras.Infrastructure.csproj"
+              },
+              "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Shared\\com.ServiBarras.Shared.csproj": {
+                "projectPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Shared\\com.ServiBarras.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Infrastructure\\com.ServiBarras.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Infrastructure\\com.ServiBarras.Infrastructure.csproj",
+        "projectName": "com.ServiBarras.Infrastructure",
+        "projectPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Infrastructure\\com.ServiBarras.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\JDcardenas\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JDcardenas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Shared\\com.ServiBarras.Shared.csproj": {
+                "projectPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Shared\\com.ServiBarras.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Shared\\com.ServiBarras.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Shared\\com.ServiBarras.Shared.csproj",
+        "projectName": "com.ServiBarras.Shared",
+        "projectPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Shared\\com.ServiBarras.Shared.csproj",
+        "packagesPath": "C:\\Users\\JDcardenas\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JDcardenas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.WebAPI\\com.ServiBarras.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.WebAPI\\com.ServiBarras.WebAPI.csproj",
+        "projectName": "com.ServiBarras.WebAPI",
+        "projectPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.WebAPI\\com.ServiBarras.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\JDcardenas\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.WebAPI\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JDcardenas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.Servibarras.ApplicationCore\\com.Servibarras.ApplicationCore.csproj": {
+                "projectPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.Servibarras.ApplicationCore\\com.Servibarras.ApplicationCore.csproj"
+              },
+              "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Infrastructure\\com.ServiBarras.Infrastructure.csproj": {
+                "projectPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Infrastructure\\com.ServiBarras.Infrastructure.csproj"
+              },
+              "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Shared\\com.ServiBarras.Shared.csproj": {
+                "projectPath": "C:\\Proyecto TecnoCEDI\\TecnoCEDI Services API Controller\\com.ServiBarras.Shared\\com.ServiBarras.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

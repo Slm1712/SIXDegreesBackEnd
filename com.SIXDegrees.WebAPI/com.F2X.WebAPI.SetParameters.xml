@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="F2X" />
+  <setParameter name="com.SIXDegrees.Infrastructure.Models.SIXDegress_bdContext" value="" />
+</parameters>

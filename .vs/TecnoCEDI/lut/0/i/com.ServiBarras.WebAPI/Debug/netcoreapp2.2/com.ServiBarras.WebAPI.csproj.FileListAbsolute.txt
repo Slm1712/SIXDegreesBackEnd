@@ -1,0 +1,13 @@
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\b\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.deps.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\b\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\b\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.runtimeconfig.dev.json
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\b\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\i\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csprojAssemblyReference.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\i\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CoreCompileInputs.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\i\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\i\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorAssemblyInfo.cs
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\i\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfoInputs.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\i\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.AssemblyInfo.cs
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\i\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\i\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.csproj.CopyComplete
+C:\Proyecto TecnoCEDI\TecnoCEDI Services API Controller\.vs\TecnoCEDI\lut\0\i\com.ServiBarras.WebAPI\Debug\netcoreapp2.2\com.ServiBarras.WebAPI.dll
